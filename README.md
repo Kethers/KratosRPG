@@ -27,8 +27,8 @@ Gameplay Inputs:
 
 - Move: WASD
 - Roll: Space
-- Light attack: Mouse LB.  4 combos. 3 combo + mouse RB will trigger termination of heavy attack.
-- Heavy attack: Mouse RB. 3 combos.
+- Light attack: Mouse LB. 4 combos in total. 3 combos + mouse RB will trigger termination of heavy attack as the fourth combo attack.
+- Heavy attack: Mouse RB. 2 combos in total.
 - Target Lock: Mouse Mid Button.
 - Special Abilities: 2 abilities shown in below picture, activate with Alt + mouse LB/RB.
 
